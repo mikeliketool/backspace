@@ -43,7 +43,7 @@
             "KeyType": "HASH"
           }
         ],
-        "ProvisionedThrougput": {
+        "ProvisionedThroughput": {
           "ReadCapacityUnits": {
             "Ref": "ReadCapacityUnits"
           },
@@ -67,7 +67,7 @@
             "Projection": {
               "ProjectionType": "ALL"
             },
-            "ProvisionedThrougput": {
+            "ProvisionedThroughput": {
               "ReadCapacityUnits": {
                 "Ref": "ReadCapacityUnits"
               },
