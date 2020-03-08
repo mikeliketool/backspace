@@ -1,0 +1,1 @@
+GET  https://b9sgfhe0u7.execute-api.us-east-1.amazonaws.com/demo/pets/1 HTTP/1.1
